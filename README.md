@@ -1,1 +1,1 @@
-Building a wordle clone using React
+Building a wordle clone using React JS
